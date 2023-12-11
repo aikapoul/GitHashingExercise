@@ -1,1 +1,1 @@
-Brief description of the project
+Making git repository and signal files (task 1 and task 2)
